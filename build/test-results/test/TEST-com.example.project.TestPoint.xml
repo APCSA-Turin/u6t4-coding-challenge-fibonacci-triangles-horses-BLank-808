@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.example.project.TestPoint" tests="3" skipped="0" failures="0" errors="0" timestamp="2025-01-06T23:05:52" hostname="codespaces-c94ab1" time="0.021">
+  <properties/>
+  <testcase name="testPointInfo()" classname="com.example.project.TestPoint" time="0.002"/>
+  <testcase name="testDistanceTo()" classname="com.example.project.TestPoint" time="0.012"/>
+  <testcase name="testConstructor()" classname="com.example.project.TestPoint" time="0.003"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
